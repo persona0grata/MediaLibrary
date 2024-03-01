@@ -8,7 +8,7 @@ Media Library that runs media in vlc player
 > Change path to your vlc executable in 'String vlcPath = "Your VLC player path"'. 
 ## External libraries
 
-External libraries:\
+External libraries:
 + jaudiotagger-3.0.1.jar
 + jlayer-1.0.1.jar
 + mp3spi-1.9.5.jar 
