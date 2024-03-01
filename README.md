@@ -2,7 +2,7 @@
 Media Library that runs media in VLC player :+1:
 ## Using
 
-+ Create **movies**, **music** folder in root directory and put your **music** (.mp3, .wav, .flac) and **movie** () files 
++ Create **movies**, **music** folder in root directory and put your **music** (.mp3, .wav, .flac) and **movie** (.mp4, .avi, .mkv) files 
 
 > [!IMPORTANT]
 > Change path to your vlc executable in `String vlcPath = "Your VLC player path"`. 
